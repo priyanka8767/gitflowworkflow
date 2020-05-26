@@ -1,1 +1,4 @@
 changes for 2.txt file
+
+
+bugs found in testing fixed
